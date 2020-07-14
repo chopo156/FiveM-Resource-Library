@@ -11,5 +11,3 @@ Website hosted by GitHub: [FiveM Resource Library | PXRPLE](https://lilwesyy.git
 - Resource Management
 
 - Instant Download
-
-- 
